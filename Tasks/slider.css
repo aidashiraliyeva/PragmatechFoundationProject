@@ -1,0 +1,22 @@
+#slider{
+	position: relative;
+	width: 600px;
+	height: 300px;
+	font: 18px sans herif;
+	overflow: hidden;
+	margin: auto
+}
+#click{
+	position: absolute;
+	right: 0;
+	bottom: 18px;
+}
+#click a{
+	color: white;
+	background-color: red;
+	padding: 10px;
+	text-decoration: none;
+}
+.imagesize{
+	width: 600px
+}

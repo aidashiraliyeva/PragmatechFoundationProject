@@ -70,3 +70,21 @@
     border-top-style: solid;
     border-top-color: white;
 }
+.backvideo{
+    width: 1519px
+}
+.videoo{
+    position: absolute;
+    z-index: 000;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+    object-fit: cover
+}
+.absolute{
+    position: absolute;
+    z-index: 777;
+    top: 0;
+    left: 0;
+}
